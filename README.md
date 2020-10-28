@@ -1,6 +1,6 @@
 # TTL_TicTacToe
 
-for 2 player TicTacToe detailed report found [here](https://drive.google.com/file/d/17cn0vbwPrHP4_kRdpXQoU20w9vbTBZiW/view?usp=sharing) 
+for 2 player TicTacToe detailed report found [here](https://drive.google.com/file/d/17cn0vbwPrHP4_kRdpXQoU20w9vbTBZiW/view?usp=sharing). [Simulation on logisim] for 2 player tictactoe(https://github.com/dkanzariya/TTL_TicTacToe/tree/master/Tic_tac_toe_2player)
 
 this steps try to design tictactoe with these constraints:
 
