@@ -1,7 +1,8 @@
 # TTL_TicTacToe
 
-I've seen several circuits for two-player tic-tac-toe games on the Internet,
-but I thought I'd try to design one with these constraints:
+for 2 player TicTacToe detailed report found [here](https://drive.google.com/file/d/17cn0vbwPrHP4_kRdpXQoU20w9vbTBZiW/view?usp=sharing) 
+
+this steps try to design tictactoe with these constraints:
 
  + done with TTL components only, no CPU
  + minimum number of chips
